@@ -121,3 +121,40 @@ document.addEventListener('DOMContentLoaded', function() {
 
 // Initialize floating icons when page loads
 window.addEventListener('DOMContentLoaded', createFloatingIcons);
+
+
+// Contact Form Handling
+document.addEventListener('DOMContentLoaded', function() {
+    const contactForm = document.getElementById('contactForm');
+    const formStatus = document.getElementById('formStatus');
+
+    if (contactForm) {
+        contactForm.addEventListener('submit', function(e) {
+            e.preventDefault();
+
+            // Get form data
+            const name = document.getElementById('name').value;
+            const email = document.getElementById('email').value;
+            const subject = document.getElementById('subject').value;
+            const message = document.getElementById('message').value;
+
+            // For now, we'll just show a success message
+            // In production, you would send this to a backend server or email service
+            
+            // Simulate form submission
+            formStatus.className = 'form-status success';
+            formStatus.textContent = 'Thank you! Your message has been sent successfully. I\'ll get back to you soon!';
+            
+            // Reset form
+            contactForm.reset();
+
+            // Hide success message after 5 seconds
+            setTimeout(() => {
+                formStatus.style.display = 'none';
+            }, 5000);
+
+            // OPTIONAL: If you want to use mailto (opens email client)
+            // window.location.href = `mailto:your.email@example.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(`From: ${name} (${email})\n\n${message}`)}`;
+        });
+    }
+});
