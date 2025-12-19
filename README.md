@@ -18,7 +18,8 @@ Welcome to my digital space! This isn't just another portfolio—it's a showcase
 **[👉 Check it out here!](#)** 
 
 ![Portfolio Preview](https://calvin-kekeli.github.io/Portfolio/)
-*Screenshot coming soon!*
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/398326c2-155d-4c9c-8450-a1f8f70100cc" />
+
 
 ## 🛠️ Tech Arsenal
 
