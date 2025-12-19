@@ -392,7 +392,7 @@ Now go forth and deploy this beast! 🚀
 
 | Resource | Link |
 |----------|------|
-| 📖 Live Demo | (https://calvin-kekeli.github.io/Portfolio/) |
+| 📖 Live Demo | [Website](https://calvin-kekeli.github.io/Portfolio/) |
 | 🐛 Report Bug | [Issues](https://github.com/calvin-kekeli/portfolio/issues) |
 | 💡 Request Feature | [Issues](https://github.com/calvin-kekeli/portfolio/issues) |
 | ⭐ Star Repo | [GitHub](https://github.com/yourusername/portfolio) |
