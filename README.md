@@ -84,7 +84,7 @@ Two-column awesomeness:
 
 ```bash
 # 1. Clone this bad boy
-git clone https://github.com/yourusername/portfolio.git
+git clone https://github.com/calvin-kekeli/portfolio.git
 
 # 2. Jump into the folder
 cd portfolio
