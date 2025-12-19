@@ -154,7 +154,8 @@ document.addEventListener('DOMContentLoaded', function() {
             }, 5000);
 
             // OPTIONAL: If you want to use mailto (opens email client)
-            // window.location.href = `mailto:your.email@example.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(`From: ${name} (${email})\n\n${message}`)}`;
+            window.location.href = `mailto:your.calvinyaadar@gmail.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(`From: ${name} (${email})\n\n${message}`)}`;
         });
     }
 });
+
