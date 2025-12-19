@@ -328,8 +328,6 @@ Want to level this up even more? Here are some ideas:
 
 ## 📜 License
 
-MIT License - Feel free to use this as a template!
-
 **Translation:** Copy it, modify it, make it yours, just don't claim you built the original. Give credit where credit is due! 🙏
 
 ## 🤝 Contributing
