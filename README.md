@@ -351,10 +351,10 @@ Found a bug? Have a cool idea? Want to add a feature?
 🎯 Specializing in security, design, and digital operations  
 
 ### Connect With Me
-- 🔗 **Portfolio**: [Coming Soon - Deploy This First!]
+- 🔗 **Portfolio**: [https://calvin-kekeli.github.io/Portfolio/]
 - 💼 **LinkedIn**: [https://linkedin.com/in/calvin-yaadar/]
 - 🐙 **GitHub**: [https://www.github.com/calvin-kekeli/]
-- 🐦 **Twitter/X**: [@calvin__keyz]
+- 🐦 **Twitter/X**: [https://www.instagram.com/calvin__keyz]
 - 📧 **Email**: calvinyaadar@gmail.com
 
 ## 💬 Testimonials
