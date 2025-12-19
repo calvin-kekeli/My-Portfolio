@@ -354,6 +354,7 @@ Found a bug? Have a cool idea? Want to add a feature?
 - 🔗 **Portfolio**: [https://calvin-kekeli.github.io/Portfolio/]
 - 💼 **LinkedIn**: [https://linkedin.com/in/calvin-yaadar/]
 - 🐙 **GitHub**: [https://www.github.com/calvin-kekeli/]
+- 📷 **Instagram**: [https://www.instagram.com/calvin__keyz/]
 - 🐦 **Twitter/X**: [https://www.x.com/calvin__keyz]
 - 📧 **Email**: calvinyaadar@gmail.com
 
